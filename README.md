@@ -7,5 +7,6 @@
    I think a better way to support scalability is to use maven and run the tests via command line.
 
 Not inlcuded in the repository:
+
 4. External JARs files should be added manually. I took them for Java from here: https://www.selenium.dev/downloads/
 5. I was using Eclipse and had to add TestNG library manually via 'Install New Software' option.
